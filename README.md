@@ -89,9 +89,3 @@ The best performing model achieved an accuracy of approximately **80–85%**.
 
 ---
 
-## How to Run the Project
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/Titanic-Survival-Prediction-ML.git
